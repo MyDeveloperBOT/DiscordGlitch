@@ -1,2 +1,0 @@
-# DiscordGlitch
- 123
